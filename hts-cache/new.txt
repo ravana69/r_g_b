@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:41:38	15932/15932	---M-Z	200	added ('OK')	text/html	etag:%223e3c-5e4dae957c6d7-gzip%22	http://v21.io/r_g_b.html	C:/My%20Web%20Sites/a/v21.io/r_g_b.html	(from )
+13:41:39	268/268	---M--	404	error ('Not%20Found')	text/html	date:Fri,%2003%20Mar%202023%2008:11:39%20GMT	http://v21.io/robots.txt		(from )
+13:41:40	301/301	---M--	302	error ('Found')	text/html	date:Fri,%2003%20Mar%202023%2008:11:40%20GMT	https://nottheinternet.com/r_g_b_preview.png	C:/My%20Web%20Sites/a/nottheinternet.com/r_g_b_preview.1.delayed	(from http://v21.io/r_g_b.html)
+13:41:42	770740/770740	---M--	200	added ('OK')	image/png	etag:%22bc2b4-5d80313f259d3%22	https://v21.io/r_g_b_preview.png	C:/My%20Web%20Sites/a/v21.io/r_g_b_preview.png	(from http://v21.io/r_g_b.html)
+13:41:42	626280/626280	---M-Z	200	added ('OK')	application/javascript	etag:%225efb2bff-98e68%22	https://cdnjs.cloudflare.com/ajax/libs/three.js/r118/three.min.js	C:/My%20Web%20Sites/a/cdnjs.cloudflare.com/ajax/libs/three.js/r118/three.min.js	(from http://v21.io/r_g_b.html)
